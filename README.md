@@ -32,7 +32,9 @@ python-turtle-car/
 ├── turtle_red_car.py
 ├── red_car.png
 ├── README.md
-└── requirements.txt
+├── requirements.txt
+├── LICENSE
+└── CITATION.cff
 ```
 
 ## Run the Project
@@ -50,6 +52,22 @@ python turtle_red_car.py
 ```
 
 The Turtle window will open and Salma will sketch the car.
+
+## License and Attribution
+
+The Python source code in this repository is licensed under the **MIT License**.
+
+The artwork and generated image are licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
+
+If you reuse, share, or adapt the artwork, please provide attribution to:
+
+**Salma Hasannejad**
+
+Project: **Red Car Sketch with Python Turtle**
+
+## Citation
+
+If you use or reference this project, please cite it using the information provided in the `CITATION.cff` file.
 
 ## Author
 
